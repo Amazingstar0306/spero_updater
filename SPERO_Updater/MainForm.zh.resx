@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAAm9JREFUeF7t1w2OokAUAGHvw3m4D+fxPN5GIwvY7bTNY8FRMjVOVULisPL3PsDs
+        oTdUgsASBJYgsASBJQgsQWAJAksQWG8DuV6v6ZO9kk8ILEFgCQJLEFiCwBIEliCwBIElCCxBYAkCSxBY
+        gsASBJYgsASBJQgsQWAJAksQWILAEgSWILAEgSUILEFgCQJLEFiCwBIEliCwBIElCKz9QE5d3xwO/SFa
+        2mP60usd26/9Nt0prX1zx3ba/xtPe7HdQaIh5SG+OsDbfpp+L4d7CyC347f9O51+BGQqP0Hfvu1OfdcM
+        2zfd8GnnQpB0/I8BGTp1TXjnbUuQ59oAMlxp3w7fiZ6S8rdhXMr9ZMjHpXh1pQGWS32IxddddN4VSHz8
+        tWvd1g+DRHdZQirv/Dzgh6kuPCHjcavpR8N/BeTWRz4heTBfF1X/nZsP8IlXVjqXElSQhR4Bll9h89+b
+        jSAZo9qvIGHVUMvhLSzrIAk1WgRZAckA+Urrv/9bBJKHNC7lsOdPniBBt9dQMLgtvwsRyCKoIPGFlaWL
+        rP99cVCzngBJxyrXL/0fKK//QyD5QubDmMpDrS90HMrDBgFINKT7/oal3D6vj0CHZR1k/HqM+kq7g0yD
+        qJfVKwh+mGfbRCBj9bYjzvyVNVWf47ivtG4LyP0c0vbzm+/59gOxbyUILEFgCQJLEFiCwBIEliCwBIEl
+        CCxBYAkCSxBYgsASBJYgsASBJQgsQWD9GpDL5ZI+fXa/BuR8PqdPn52vLFiCwBIEliCwBIElCCxBYAkC
+        SxBYgsASBJYgsASBJQgsQWAJAksQWILAEgSWILAEgSUIqr7/B5pHtsrguZXiAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        UryRFQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Str_Btn_No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="Str_Btn_Ok" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="Str_Btn_Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="Str_Connected" xml:space="preserve">
+    <value>已连接</value>
+  </data>
+  <data name="Str_Disconnected" xml:space="preserve">
+    <value>已断开连接</value>
+  </data>
+  <data name="Str_Error_BluetoothUpdateCmdBegin" xml:space="preserve">
+    <value>蓝牙固件升级失败 : UPDATE_CMD_BEGIN</value>
+  </data>
+  <data name="Str_Error_BluetoothUpdateFileNotFound" xml:space="preserve">
+    <value>蓝牙固件升级失败 : 未找到更新文件</value>
+  </data>
+  <data name="Str_Error_Bluetooth_HidProcessFailed" xml:space="preserve">
+    <value>蓝牙固件升级失败 : HID_PROCESS_FAILED</value>
+  </data>
+  <data name="Str_Error_Bluetooth_HidProcessInProgressing" xml:space="preserve">
+    <value>蓝牙固件升级失败 : HID_PROCESS_IN_PROGRESSING</value>
+  </data>
+  <data name="Str_Error_Bluetooth_HidProcessSuceess" xml:space="preserve">
+    <value>蓝牙固件升级失败 : HID_PROCESS_SUCCESS</value>
+  </data>
+  <data name="Str_Error_FirmwareVersionSame" xml:space="preserve">
+    <value>SPERO固件当前版本已经是V{0:0.0}, 你确定仍然进行更新?</value>
+  </data>
+  <data name="Str_Error_FirwareVersionNewer" xml:space="preserve">
+    <value>SPERO固件当前版本为更高的V{0:0.0}, 你确定仍然要进行降级? 降级操作有可能造成产品丧失功能或无法启动</value>
+  </data>
+  <data name="Str_Error_FlashUpdateCmd" xml:space="preserve">
+    <value>闪存固件升级失败 : UPDATE_CMD</value>
+  </data>
+  <data name="Str_Error_FlashUpdateCmdBegin" xml:space="preserve">
+    <value>闪存固件升级失败 : UPDATE_CMD_BEGIN</value>
+  </data>
+  <data name="Str_Error_FlashUpdateCmdEnd" xml:space="preserve">
+    <value>闪存固件升级失败 : UPDATE_CMD_END</value>
+  </data>
+  <data name="Str_Error_FlashUpdateFileNotFound" xml:space="preserve">
+    <value>闪存固件升级失败 : 未找到升级文件</value>
+  </data>
+  <data name="Str_Error_FlashUpdateFileSize" xml:space="preserve">
+    <value>闪存固件升级失败 : 升级文件大小错误</value>
+  </data>
+  <data name="Str_Error_GetDeviceInfo" xml:space="preserve">
+    <value>MCU GET_DEVICE_INFO 读取错误</value>
+  </data>
+  <data name="Str_Error_McuHwVersion" xml:space="preserve">
+    <value>MCU硬件版本错误</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmd" xml:space="preserve">
+    <value>MCU升级失败 : UPDATE_CMD</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmdBegin" xml:space="preserve">
+    <value>MCU升级失败 : UPDATE_CMD_BEGIN</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmdEnd" xml:space="preserve">
+    <value>MCU升级失败 : UPDATE_CMD_END</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmdKey" xml:space="preserve">
+    <value>MCU升级失败 : UPDATE_CMD_KEY</value>
+  </data>
+  <data name="Str_Error_McuUpdateFileNotFound" xml:space="preserve">
+    <value>MCU升级失败 : 未找到升级文件</value>
+  </data>
+  <data name="Str_Error_McuUpdateFileSize" xml:space="preserve">
+    <value>MCU升级失败 : 升级文件大小错误</value>
+  </data>
+  <data name="Str_Error_OpenComPort" xml:space="preserve">
+    <value>打开USB串口失败，请选择正确的端口</value>
+  </data>
+  <data name="Str_Error_OpenFile" xml:space="preserve">
+    <value>文件无法打开</value>
+  </data>
+  <data name="Str_Error_Reset" xml:space="preserve">
+    <value>SPERO复位失败</value>
+  </data>
+  <data name="Str_Error_SelectComponent" xml:space="preserve">
+    <value>请选择你所需要升级的固件组件</value>
+  </data>
+  <data name="Str_Error_SerialOpen" xml:space="preserve">
+    <value>USB串口打开失败</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Bluetooth0" xml:space="preserve">
+    <value>USB串口已关闭 : BLUETOOTH_0</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Bluetooth1" xml:space="preserve">
+    <value>USB串口已关闭 : BLUETOOTH_1</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Mcu0" xml:space="preserve">
+    <value>USB串口已关闭 : MCU_0</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Mcu1" xml:space="preserve">
+    <value>USB串口已关闭 : MCU_1</value>
+  </data>
+  <data name="Str_FirmwareVersion" xml:space="preserve">
+    <value>固件版本</value>
+  </data>
+  <data name="Str_FormClosingWarning" xml:space="preserve">
+    <value>升级进行中, 你确定要关闭升级程序吗? 强行关闭可能会造成产品丧失功能或无法启动</value>
+  </data>
+  <data name="Str_HardwareVersion" xml:space="preserve">
+    <value>硬件版本</value>
+  </data>
+  <data name="Str_InitiateUpdate" xml:space="preserve">
+    <value>等待接入升级设备</value>
+  </data>
+  <data name="Str_ModelNumber" xml:space="preserve">
+    <value>产品型号</value>
+  </data>
+  <data name="Str_ProductInformation" xml:space="preserve">
+    <value>产品信息</value>
+  </data>
+  <data name="Str_ProductName" xml:space="preserve">
+    <value>产品名称</value>
+  </data>
+  <data name="Str_SerialNumber" xml:space="preserve">
+    <value>产品序列号</value>
+  </data>
+  <data name="Str_Status" xml:space="preserve">
+    <value>状态</value>
+  </data>
+  <data name="Str_UpdateBluetooth" xml:space="preserve">
+    <value>蓝牙固件升级</value>
+  </data>
+  <data name="Str_UpdateBluetoothFormat" xml:space="preserve">
+    <value>蓝牙固件版本由 (V{0:0.0} 升级至 V{1:0.0})</value>
+  </data>
+  <data name="Str_UpdateComplete" xml:space="preserve">
+    <value>升级完成</value>
+  </data>
+  <data name="Str_UpdateError" xml:space="preserve">
+    <value>升级错误</value>
+  </data>
+  <data name="Str_UpdateFlash" xml:space="preserve">
+    <value>闪存数据升级</value>
+  </data>
+  <data name="Str_UpdateFlashFormat" xml:space="preserve">
+    <value>闪存数据由 (V{0:0.0} 升级至 V{1:0.0})</value>
+  </data>
+  <data name="Str_UpdateMcu" xml:space="preserve">
+    <value>MCU升级</value>
+  </data>
+  <data name="Str_UpdateMcuFormat" xml:space="preserve">
+    <value>MCU版本由 (V{0:0.0} 升级至 V{1:0.0})</value>
+  </data>
+  <data name="Str_UpdateNow" xml:space="preserve">
+    <value>现在开始升级</value>
+  </data>
+  <data name="Str_UpdaterVersion" xml:space="preserve">
+    <value>升级程序版本</value>
+  </data>
+  <data name="Str_UpdateSuccess" xml:space="preserve">
+    <value>升级已成功完成</value>
+  </data>
+  <data name="Str_UpdateTimeRemaining" xml:space="preserve">
+    <value>(升级中) 剩余时间</value>
+  </data>
+  <data name="Str_UpdateWarning" xml:space="preserve">
+    <value>升级警告</value>
+  </data>
+  <data name="Str_UpdatingOptions" xml:space="preserve">
+    <value>升级选项</value>
+  </data>
+  <data name="Str_UserExperience" xml:space="preserve">
+    <value>用户体验升级</value>
+  </data>
+</root>

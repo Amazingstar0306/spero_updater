@@ -1,0 +1,90 @@
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\bin\Debug\SPERO Updater.exe.config
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\bin\Debug\SPERO Updater.exe
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\bin\Debug\SPERO Updater.pdb
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\bin\Debug\en\SPERO Updater.resources.dll
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\bin\Debug\it\SPERO Updater.resources.dll
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\bin\Debug\zh\SPERO Updater.resources.dll
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.CustomMessageForm.resources
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.resources
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.InstructionForm.resources
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.Properties.Resources.resources
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.en.resources
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.it.resources
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.zh.resources
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\en\SPERO Updater.resources.dll
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\it\SPERO Updater.resources.dll
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\zh\SPERO Updater.resources.dll
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO Updater.exe
+C:\Users\USER\Desktop\SPERO_Updater_20220208\SPERO_Updater\obj\Debug\SPERO Updater.pdb
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\bin\Debug\SPERO Updater.exe.config
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO Updater.exe
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO Updater.pdb
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\bin\Debug\SPERO Updater.exe
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\bin\Debug\SPERO Updater.pdb
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\bin\Debug\en\SPERO Updater.resources.dll
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\bin\Debug\it\SPERO Updater.resources.dll
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\bin\Debug\zh\SPERO Updater.resources.dll
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.csprojResolveAssemblyReference.cache
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.CustomMessageForm.resources
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.resources
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.InstructionForm.resources
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.Properties.Resources.resources
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.en.resources
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.it.resources
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.zh.resources
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.GenerateResource.Cache
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\en\SPERO Updater.resources.dll
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\it\SPERO Updater.resources.dll
+E:\Freelancing\2022\SPERO_Updater_CSharp\Result\SPERO_Updater_20220215\SPERO_Updater\obj\Debug\zh\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\bin\Debug\SPERO Updater.exe.config
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\bin\Debug\SPERO Updater.exe
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\bin\Debug\SPERO Updater.pdb
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\bin\Debug\en\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\bin\Debug\fr\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\bin\Debug\it\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\bin\Debug\zh\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.AssemblyReference.cache
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.CustomMessageForm.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.InstructionForm.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.Properties.Resources.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.en.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.fr.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.it.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.zh.resources
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.GenerateResource.cache
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.CoreCompileInputs.cache
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\en\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\fr\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\it\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\zh\SPERO Updater.resources.dll
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO Updater.exe
+D:\___DalePrj\__CubicSpeaker\__McuPrg\___Gd32_CSpeaker\CSpk_CSUpdate_Repo\SPERO_Updater_FromDale\SPERO_Updater\obj\Debug\SPERO Updater.pdb
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.AssemblyReference.cache
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.SuggestedBindingRedirects.cache
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.CustomMessageForm.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.InstructionForm.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.Properties.Resources.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.en.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.fr.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.it.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.MainForm.zh.resources
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.GenerateResource.cache
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO_Updater.csproj.CoreCompileInputs.cache
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO Updater.exe
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\SPERO Updater.pdb
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\bin\Debug\SPERO Updater.exe.config
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\bin\Debug\SPERO Updater.exe
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\bin\Debug\SPERO Updater.pdb
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\bin\Debug\en\SPERO Updater.resources.dll
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\bin\Debug\fr\SPERO Updater.resources.dll
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\bin\Debug\it\SPERO Updater.resources.dll
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\bin\Debug\zh\SPERO Updater.resources.dll
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\en\SPERO Updater.resources.dll
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\fr\SPERO Updater.resources.dll
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\it\SPERO Updater.resources.dll
+E:\C#\20 APR 2022 (v1.2)\SPERO_Updater\SPERO_Updater\obj\Debug\zh\SPERO Updater.resources.dll

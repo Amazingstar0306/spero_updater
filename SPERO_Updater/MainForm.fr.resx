@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="LangBox_ZH.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAZCAYAAABzVH1EAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EwAACxMBAJqcGAAABMtJREFUWEfNmA1Q02Ucx4dXd2l3vhGVYRaKHS+KpiIRXB2+EAaZvGaIb0zIlwbI
+        gkFxvqDAwJaJMN4ap0enjJh4gHe8SAMcQew/XmSNg1x5x2XHIVaSWVf46/eMZ2O0PxMkB9+7z7HnZc/z
+        /fHb73n2H+dhuqYdeglJQGqRW4obd0Fx4zdQaIf+UPzwewciRryRWfQtM0t13YN2SLFcM/CgSVoP38ak
+        g9I3Ehi3IB1K773QGp4E34hl0KjqA3nPL71IEH37zFBV58/c6s5b9xXZMmBcA6Bt4atmUS3x1AVa1/oj
+        VHf1y5C5dKnpU3nrzdQqRQ+0BvJYTWtcHaDnzVdYx1TOPlAvlUOlqq8LsaFLWl6lTb38yrrrwLweojOm
+        We9gYnbgtDXczloA7c+vMhnTYesODZIKuNSsZcqatXPo0pbTha/V60vk3w0rfbg6Q2oXJxjMm29q1BrH
+        nJyh80UXDGY1tD+72nTOYg+oljWCtKE7my5vGZ2rarNCVIqPM6Fn43Lo3bwc+lNt4G/1LOh9y17XVjs7
+        jzGrDbSDP5ufhA5b9syQrEoxu0W1nWvpNo9fBeUtviXlLbqiJYEQg8NajoEBkbWpYczMzd1LoPNll7H9
+        RtSnFULhFWUZ3ebxK7u0QdaA2dAb6HZzMATx65dzx5ibDIzndpCUtwznljVNqPCPn0hZgAhok1U4Hkmg
+        zVGdvlBrlVlcd0+5YZfBQN+HtnD38tPQF2ULfymf0NWCsUECqaGf4hbBdfuVJmPGfHXxKmRK5TvodmaF
+        BjchQJuswvG1iBYZG3DGuStP5ZXIoW2Rm2Hz7/2WQbvNiHnNOkdQr3QyjOnp9baHofI50P4cS7EbUZMq
+        AVFR9ed0OxNRYzAOd+g0Mu/Of8aMEXBO5pfNO19YwWqCjS6HFXiXOI6cVlgnbc+YzjGmMUYIaZKKUurH
+        RGjCkIXxXuuFbQHC0NfBiCFQzpGz0vlF+WWsJti4nbkQBsXkHjGfCT3XDp6A4zmll+l2JkIzkwmE1BDJ
+        wFIkj0CHOJwEUdG8ghwZqwk2OhavAs0aR9YxNuqj0yDpzMWHZmQ86DSDsE+IkBohH7WltJvD4Qsls4V5
+        l7BGXmM1MlUqj+VC/Knz5mrEcFLhX+OMsJ5g2EdOLRIkg4zeUbzkHKvDqQVDSq+drEamSn5WCcSkFITR
+        7cwKjZl8nIiwjwSlzwSBHBCkXkhWSEAjAe9POiOrOZzOamQqMB7vwUdCyT+HjmZP9B4hBkcLmIr2lyDB
+        tMsg7CMBjdwr4fGnfE9mFOpudjZDj0rlJ2chIvGzcQv9f1dYdIpVWExKWw0elWyGHgXGPQRik8Wwmy9c
+        Q7exjEIOHHXdL/h0uHXzHlZjkwK//YpTv4BQXrKYLm9Z+e9LjI1LFIHSPZjd4ER4wR2Kk3MhKDJJhcym
+        S1tefrv4aby4dGjedojdqBlUK7ZAwbFs2BaeoN66J376nhD18t7O4/pzBfeLBaIJP7PLI45AFP4DfEKj
+        ZT47Yqb/mV0vr4APliHSIG7CA3G8COq4SaB8OwIYt0Bg1vkDg/dOUygfivkZwOOnw8bgg5oNQQdm1q8o
+        xvLw22uHJCBX33h3X/+W96PgnZ2x4BUQec9zK7cDyUI2IdP4uxaH8y/rMV7UQfWS/AAAAABJRU5ErkJg
+        gg==
+</value>
+  </data>
+  <data name="LangBox_IT.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFsAAAAaCAYAAADYMiBQAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EwAACxMBAJqcGAAABN1JREFUaEPtmX9M1HUYx68fZmOsqW1lrT9am1tb/eNoamZrKWkaYIqUNpENBUEY
+        BKGn6a3jV4chJdBpCfLTCfJLBeVnHCoHjPxK5iZSgCQytHYgP6Wi7el5vj3f23V8j7vjzv++r+29z4/n
+        83k+n+/7nvvCQOUMxtsTj6Ge4KGCO0Fjn0PFoBpQQ8aeMTB2j0Bz9+g/zb3jA6gKVBDKg7coOIuha/hZ
+        VGbTLdPftT/fhp7+YfjdNA4jY1MwNvEnDI88hME/RqGzzwTNQh8YOk1DhltDcagnOYWCI9TduP8OavB0
+        WwesOX0AdtUchdnoitBCe1g8GFp/hdob9wTUy5xKYTaqhP6NF4X+aXV1Icz/dj2oMrwhuOZrtlWeX3Zr
+        oGPRUri2ZA1cKaiFqqt3Biuv3nmNUyrIUd7as/JcW890yDm9aLIkR80WtXgZNOtLoaKl+255S/fznFrB
+        kuJLnc+cudQ5QBVtabTTZpNeWA6NRT9AUdPNak6vYElB/XVdbmMrPK3/wHWzUYLXh1DWcB3y637y4yMU
+        iOwLPy7IrRYmNxR/McPouZpNMiacgOyq9nY+RoE4XmEMyatrg3mZ77vVbOGNTZB3oR2OlTe/ykcppBcb
+        yvdVFsgaTZqr2aTzp+rhaFFjDB/lFuITkxeiGlDA7UIOzRl35cR9XqgS1DCKcpEElFpckFpQ07u5JEnW
+        aJIrZhsST0Bqfk2heJAN+EJqlnTBGeLltD6F56T1/z0IIs3xUBbrPQSO7eZE9aJCeVpEinGfPjAymdZR
+        PoqRyHzan6JKzbv4cEXhp7JGk1wxuyU6BZKzzjeJN7MBX4QuRVURypIuKI0DeK30QCU8lqpIrERszQ9v
+        C4rTOh46nBMlVb7sh4st3ZPir4hBC3BOzKk6fLISlubvkTWa5IrZrZHJoNWXdvCZsvAFrStN1jRpHuXN
+        Y28ei/uppTH1bWG5npD2oOzmxFYqAmmtZczm2eaYVl8y/agq2xilgwPfnHKosnkoYr6cFThHX1Fab61e
+        jtt8YAleb2m2UzmxTxVOlU/fRHMMW/uVvfer3O5H9c6u0x6HuMM5+XymLHxBu2bjWHoYikmvF5K4lvsB
+        3KeHo3lLSa8i83nYOpJT7NN6Avv02qEPiAynH36S2fbf2dFJ35+JLcuRNZrkitl5x0ohKvG7KPGWNuCL
+        OGI2PZjAw/9hGcOW9spVawPHzedhazcnrUVZ34WMFavVMob92X8bCddkBqXklMFT/Icnd5ktrNgCB4/k
+        Q7gmY4l4kIJKtWt/muceTcaEX3GCW82u1+hhp/qIkY9RkNgRq9MmZBeBp97XLWYLy7fAfl0W7Ij5ci0f
+        oSCxLTLeY3tUYs/e0lzXzX7pLchJK4SPI7RlnF7BGv/Qg16B0UlToaWZczf7xTfhrO4kBIRpejeHfL6I
+        UyvI4RsUt/aTCO1UbEkWeOh9nDL72uvroVCXAxuD1f0+QXEzftdUkGHdtqhlG7bH9KvTs8CvOB5Cau39
+        DzIerkQkwT5NOuDey6jFnErBEVb7h3uidD6BsZOH0rKhReiCgfsPYHhkEkbHp8D0YAJ+u2uCussd8Nmh
+        dHjvo4h77/qHhaIe5xQKzrLKb+eCVb7Bu1Fn3/YL7lu3NXLKNzAWVvuH/YVzN1G5qE2oebxFwSYq1b9O
+        6dSs0VeQcgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="LangBox_EN.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        TkSuQmCC
+</value>
+  </data>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        dAAAEnQB3mYfeAAAAm9JREFUeF7t1w2OokAUAGHvw3m4D+fxPN5GIwvY7bTNY8FRMjVOVULisPL3PsDs
+        oTdUgsASBJYgsASBJQgsQWAJAksQWG8DuV6v6ZO9kk8ILEFgCQJLEFiCwBIEliCwBIElCCxBYAkCSxBY
+        gsASBJYgsASBJQgsQWAJAksQWILAEgSWILAEgSUILEFgCQJLEFiCwBIEliCwBIElCKz9QE5d3xwO/SFa
+        2mP60usd26/9Nt0prX1zx3ba/xtPe7HdQaIh5SG+OsDbfpp+L4d7CyC347f9O51+BGQqP0Hfvu1OfdcM
+        2zfd8GnnQpB0/I8BGTp1TXjnbUuQ59oAMlxp3w7fiZ6S8rdhXMr9ZMjHpXh1pQGWS32IxddddN4VSHz8
+        tWvd1g+DRHdZQirv/Dzgh6kuPCHjcavpR8N/BeTWRz4heTBfF1X/nZsP8IlXVjqXElSQhR4Bll9h89+b
+        jSAZo9qvIGHVUMvhLSzrIAk1WgRZAckA+Urrv/9bBJKHNC7lsOdPniBBt9dQMLgtvwsRyCKoIPGFlaWL
+        rP99cVCzngBJxyrXL/0fKK//QyD5QubDmMpDrS90HMrDBgFINKT7/oal3D6vj0CHZR1k/HqM+kq7g0yD
+        qJfVKwh+mGfbRCBj9bYjzvyVNVWf47ivtG4LyP0c0vbzm+/59gOxbyUILEFgCQJLEFiCwBIEliCwBIEl
+        CCxBYAkCSxBYgsASBJYgsASBJQgsQWD9GpDL5ZI+fXa/BuR8PqdPn52vLFiCwBIEliCwBIElCCxBYAkC
+        SxBYgsASBJYgsASBJQgsQWAJAksQWILAEgSWILAEgSUIqr7/B5pHtsrguZXiAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        UryRFQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="Str_Btn_No" xml:space="preserve">
+    <value>NON</value>
+  </data>
+  <data name="Str_Btn_Ok" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Str_Btn_Yes" xml:space="preserve">
+    <value>OUI</value>
+  </data>
+  <data name="Str_Connected" xml:space="preserve">
+    <value>CONNECTE</value>
+  </data>
+  <data name="Str_Disconnected" xml:space="preserve">
+    <value>DECONNECTE</value>
+  </data>
+  <data name="Str_Error_BluetoothUpdateCmdBegin" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Bluetooth : UPDATE_CMD_BEGIN</value>
+  </data>
+  <data name="Str_Error_BluetoothUpdateFileNotFound" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Bluetooth : Fichier de mise à jour introuvable</value>
+  </data>
+  <data name="Str_Error_Bluetooth_HidProcessFailed" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Bluetooth : HID_PROCESS_FAILED</value>
+  </data>
+  <data name="Str_Error_Bluetooth_HidProcessInProgressing" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Bluetooth : HID_PROCESS_IN_PROGRESSING</value>
+  </data>
+  <data name="Str_Error_Bluetooth_HidProcessSuceess" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Bluetooth : HID_PROCESS_SUCCESS</value>
+  </data>
+  <data name="Str_Error_FirmwareVersionSame" xml:space="preserve">
+    <value>La version du micrologiciel SPERO est déjà mise à jour V{0:0.0}, voulez-vous quand même effectuer la mise à jour?</value>
+  </data>
+  <data name="Str_Error_FirwareVersionNewer" xml:space="preserve">
+    <value>La version actuelle du micrologiciel SPERO est la future version V{0:0.0}. Voulez-vous quand même rétrograder le micrologiciel? Cette action pourrait endommager le produit ou le rendre insensible!</value>
+  </data>
+  <data name="Str_Error_FlashUpdateCmd" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Flash : UPDATE_CMD</value>
+  </data>
+  <data name="Str_Error_FlashUpdateCmdBegin" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Flash : UPDATE_CMD_BEGIN</value>
+  </data>
+  <data name="Str_Error_FlashUpdateCmdEnd" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Flash : UPDATE_CMD_END</value>
+  </data>
+  <data name="Str_Error_FlashUpdateFileNotFound" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Flash : Fichier de mise à jour introuvable</value>
+  </data>
+  <data name="Str_Error_FlashUpdateFileSize" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel Flash : Erreur de taille de fichier de mise à jour</value>
+  </data>
+  <data name="Str_Error_GetDeviceInfo" xml:space="preserve">
+    <value>MCU GET_DEVICE_INFO Erreur</value>
+  </data>
+  <data name="Str_Error_McuHwVersion" xml:space="preserve">
+    <value>Erreur de version du matériel MCU</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmd" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel MCU : UPDATE_CMD</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmdBegin" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel MCU : UPDATE_CMD_BEGIN</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmdEnd" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel MCU : UPDATE_CMD_END</value>
+  </data>
+  <data name="Str_Error_McuUpdateCmdKey" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel MCU : UPDATE_CMD_KEY</value>
+  </data>
+  <data name="Str_Error_McuUpdateFileNotFound" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel MCU : Fichier de mise à jour introuvable</value>
+  </data>
+  <data name="Str_Error_McuUpdateFileSize" xml:space="preserve">
+    <value>Echec de la mise à jour du micrologiciel MCU: Erreur de taille de fichier de mise à jour</value>
+  </data>
+  <data name="Str_Error_OpenComPort" xml:space="preserve">
+    <value>Echec de l'ouverture du port USB, veuillez sélectionner le bon port</value>
+  </data>
+  <data name="Str_Error_OpenFile" xml:space="preserve">
+    <value>Impossible d'ouvrir le fichier</value>
+  </data>
+  <data name="Str_Error_Reset" xml:space="preserve">
+    <value>Échec de la réinitialisation SPERO</value>
+  </data>
+  <data name="Str_Error_SelectComponent" xml:space="preserve">
+    <value>Veuillez sélectionner le(s) composant(s) logiciel(s) que vous souhaitez mettre à jour</value>
+  </data>
+  <data name="Str_Error_SerialOpen" xml:space="preserve">
+    <value>Impossible d'ouvrir le port série USB</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Bluetooth0" xml:space="preserve">
+    <value>Port série USB fermé : BLUETOOTH_0</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Bluetooth1" xml:space="preserve">
+    <value>Port série USB fermé : BLUETOOTH_1</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Mcu0" xml:space="preserve">
+    <value>Port série USB fermé : MCU_0</value>
+  </data>
+  <data name="Str_Error_SerialPortClosed_Mcu1" xml:space="preserve">
+    <value>Port série USB fermé : MCU_1</value>
+  </data>
+  <data name="Str_FirmwareVersion" xml:space="preserve">
+    <value>Version du micrologiciel</value>
+  </data>
+  <data name="Str_FormClosingWarning" xml:space="preserve">
+    <value>La mise à jour est en cours, êtes-vous sûr de vouloir fermer le programme de mise à jour? Cela pourrait endommager le produit!</value>
+  </data>
+  <data name="Str_HardwareVersion" xml:space="preserve">
+    <value>Version matérielle</value>
+  </data>
+  <data name="Str_InitiateUpdate" xml:space="preserve">
+    <value>Lancer la mise à jour</value>
+  </data>
+  <data name="Str_ModelNumber" xml:space="preserve">
+    <value>Numéro de modèle</value>
+  </data>
+  <data name="Str_ProductInformation" xml:space="preserve">
+    <value>Information produit</value>
+  </data>
+  <data name="Str_ProductName" xml:space="preserve">
+    <value>Nom du produit</value>
+  </data>
+  <data name="Str_SerialNumber" xml:space="preserve">
+    <value>Numéro de série</value>
+  </data>
+  <data name="Str_Status" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="Str_UpdateBluetooth" xml:space="preserve">
+    <value>Mettre à jour le Bluetooth</value>
+  </data>
+  <data name="Str_UpdateBluetoothFormat" xml:space="preserve">
+    <value>METTRE A JOUR LE BLUETOOTH (V{0:0.0} À V{1:0.0})</value>
+  </data>
+  <data name="Str_UpdateComplete" xml:space="preserve">
+    <value>Mise à jour terminée</value>
+  </data>
+  <data name="Str_UpdateError" xml:space="preserve">
+    <value>ERREUR DE MISE A JOUR</value>
+  </data>
+  <data name="Str_UpdateFlash" xml:space="preserve">
+    <value>Mettre à jour le Flash</value>
+  </data>
+  <data name="Str_UpdateFlashFormat" xml:space="preserve">
+    <value>METTRE A JOUR LE FLASH (V{0:0.0} TO V{1:0.0})</value>
+  </data>
+  <data name="Str_UpdateMcu" xml:space="preserve">
+    <value>Mettre à jour le MCU</value>
+  </data>
+  <data name="Str_UpdateMcuFormat" xml:space="preserve">
+    <value>METTRE A JOUR LE MCU (V{0:0.0} TO V{1:0.0})</value>
+  </data>
+  <data name="Str_UpdateNow" xml:space="preserve">
+    <value>Mettre à jour maintenant</value>
+  </data>
+  <data name="Str_UpdaterVersion" xml:space="preserve">
+    <value>Mise à jour version</value>
+  </data>
+  <data name="Str_UpdateSuccess" xml:space="preserve">
+    <value>Mise à jour terminée avec succès</value>
+  </data>
+  <data name="Str_UpdateTimeRemaining" xml:space="preserve">
+    <value>Estimation du temps de mise à jour</value>
+  </data>
+  <data name="Str_UpdateWarning" xml:space="preserve">
+    <value>Avertissement de mise à jour</value>
+  </data>
+  <data name="Str_UpdatingOptions" xml:space="preserve">
+    <value>Options de mise à jour</value>
+  </data>
+  <data name="Str_UserExperience" xml:space="preserve">
+    <value>Mise à jour de l'expérience utilisateur</value>
+  </data>
+</root>
